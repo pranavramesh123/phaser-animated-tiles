@@ -1,4 +1,5 @@
-# Phaser 3 Animated Tiles Plugin
+# Phaser 3 Animated Tiles 
+
 
 A simple plugin with a simple purpose: to add support for animated tiles to Phaser 3 (3.8.0+) as exported from Tiled.
 
